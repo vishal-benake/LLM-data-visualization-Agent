@@ -91,9 +91,6 @@ If you found this project useful or inspiring, consider supporting it with a ⭐
 - 🎥 **YouTube – [Code With Vishal](https://www.youtube.com/@Code-With-Vishal)**  
   Tutorials, project demos, and coding walkthroughs
 
-- 📸 **Instagram – [@vishalbenake8](https://www.instagram.com/vishalbenake8)**  
-  Behind the scenes, tech tips, and more
-
 ---
 
 ## 🙌 
