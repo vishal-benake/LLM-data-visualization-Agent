@@ -10,8 +10,8 @@ As the demand for smarter, faster data analysis grows, traditional tools are no 
 
 Whether you're a data scientist, analyst, educator, or enthusiast, this application makes it incredibly easy to upload datasets, ask complex questions, and receive insightful answers with dynamic visualizations.
 
-![AI Data Visualization Agent](img/demo1.jpg)
-![AI Data Visualization Agent](img/demo2.jpg)
+![LLM Data Visualization Agent](img/demo1.jpg)
+![LLM Data Visualization Agent](img/demo2.jpg)
 
 ---
 
@@ -49,8 +49,8 @@ Built with [Streamlit](https://streamlit.io), the UI enables:
 - 🔄 Re-asking or refining queries interactively  
 - ✨ Polished and responsive user interface
 
-![AI Data Visualization Agent](img/demo3.jpg)
-![AI Data Visualization Agent](img/demo4.jpg)
+![LLM Data Visualization Agent](img/demo3.jpg)
+![LLM Data Visualization Agent](img/demo4.jpg)
 
 ---
 
