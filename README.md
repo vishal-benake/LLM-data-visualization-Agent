@@ -64,8 +64,8 @@ Before starting, ensure you have the necessary credentials:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/vishal-benake/llm-data-visualization-Agent.git
-cd llm-data-visualization-Agent
+git clone https://github.com/vishal-benake/LLM-data-visualization-Agent.git
+cd LLM-data-visualization-Agent
 ```
 
 ### 📦 Install Dependencies
