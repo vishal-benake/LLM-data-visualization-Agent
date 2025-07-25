@@ -1,4 +1,4 @@
-# 📊 AI Data Visualization Agent
+# 📊 LLM Data Visualization Agent
 
 An intuitive AI-powered data visualization assistant that understands natural language queries and transforms raw datasets into meaningful visual insights. Built with [Together AI](https://www.together.ai/)’s advanced language models and powered by [E2B](https://e2b.dev/)'s secure code execution environment, this tool makes data exploration seamless and intelligent.
 
